@@ -1,0 +1,7 @@
+pressure      1  #atm
+temperature   1100  #K
+t_final       0.8e0   #final time, s
+deltaT        1.0e-3   #time step, s
+CH4    1.0   #mole
+O2     2.0   #mole
+N2     7.5   #mole
